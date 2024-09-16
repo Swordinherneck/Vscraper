@@ -5,4 +5,7 @@
 
 
 
-# la seul chose a faire est de ouvrir ta console est faire: python Vscraper.py
+** la seul chose a faire est de ouvrir ta console est faire: python Vscraper.py **
+
+
+n'oublier pas de crée un fichier nommé "scrap"
